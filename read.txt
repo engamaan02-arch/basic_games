@@ -1,0 +1,2 @@
+its just a number guessing game 
+its made by using python and fxn
