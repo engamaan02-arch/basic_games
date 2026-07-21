@@ -1,6 +1,6 @@
 import random
 
-def game():
+def game1():
     user_wins = 0
     computer_wins = 0
     options = ["rock", "paper", "scissors"]
@@ -36,4 +36,4 @@ def game():
     print("The computer won", computer_wins, "times.")
     print("Goodbye!")
     
-game()
+game1()
